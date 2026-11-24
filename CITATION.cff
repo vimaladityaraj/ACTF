@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this release and the accompanying ACTF manuscript when available."
+title: "Arusuvai Computational Taste Framework (ACTF): Research Supplement"
+type: software
+authors:
+  - given-names: "Vimal Aditya Raj"
+    family-names: "Varadharaj"
+    orcid: "https://orcid.org/0009-0008-1692-9355"
+version: "2.0.1"
+license: MIT
+keywords:
+  - sensory data interoperability
+  - oral chemosensation
+  - missing data
+  - Arusuvai
+  - multisensory HCI

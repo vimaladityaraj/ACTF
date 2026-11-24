@@ -1,0 +1,14 @@
+{
+  "round_trips": 8,
+  "cross_language_pairs": 28,
+  "max_abs_difference": 1.1102230246251565e-16,
+  "masked_cases": 1764,
+  "interval_containment": 1764,
+  "PA_cases": 28,
+  "PA_mean_zero_underestimate": 0.0751895333414883,
+  "PA_mean_interval_width": 0.34085731895419585,
+  "rank_comparisons": 168,
+  "certified_orders": 0,
+  "zero_fill_reversals": 36,
+  "both_orders_feasible": 168
+}

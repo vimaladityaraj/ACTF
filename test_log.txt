@@ -1,0 +1,41 @@
+test_all_pairs_scalar (test_analysis.TestACTF.test_all_pairs_scalar) ... ok
+test_bounds_collision (test_analysis.TestACTF.test_bounds_collision) ... ok
+test_invalid_vectors (test_analysis.TestACTF.test_invalid_vectors) ... ok
+test_metric (test_analysis.TestACTF.test_metric) ... ok
+test_noise_determinism (test_analysis.TestACTF.test_noise_determinism) ... ok
+test_normalization (test_analysis.TestACTF.test_normalization) ... ok
+test_reference_pair (test_analysis.TestACTF.test_reference_pair) ... ok
+test_reflection (test_analysis.TestACTF.test_reflection) ... ok
+test_weights (test_analysis.TestACTF.test_weights) ... ok
+test_bad_scale (test_exchange.Exchange.test_bad_scale) ... ok
+test_bad_window (test_exchange.Exchange.test_bad_window) ... ok
+test_blank (test_exchange.Exchange.test_blank) ... ok
+test_bool (test_exchange.Exchange.test_bool) ... ok
+test_duplicate (test_exchange.Exchange.test_duplicate) ... ok
+test_kind (test_exchange.Exchange.test_kind) ... ok
+test_missing_key (test_exchange.Exchange.test_missing_key) ... ok
+test_named_order (test_exchange.Exchange.test_named_order) ... ok
+test_nan (test_exchange.Exchange.test_nan) ... ok
+test_nonstandard (test_exchange.Exchange.test_nonstandard) ... ok
+test_normalize (test_exchange.Exchange.test_normalize) ... ok
+test_null (test_exchange.Exchange.test_null) ... ok
+test_observed_unknown_time (test_exchange.Exchange.test_observed_unknown_time) ... ok
+test_one_unknown_extrema (test_exchange.Exchange.test_one_unknown_extrema) ... ok
+test_outside (test_exchange.Exchange.test_outside) ... ok
+test_protocol (test_exchange.Exchange.test_protocol) ... ok
+test_roundtrip (test_exchange.Exchange.test_roundtrip) ... ok
+test_string (test_exchange.Exchange.test_string) ... ok
+test_two_unknown (test_exchange.Exchange.test_two_unknown) ... ok
+test_weight (test_exchange.Exchange.test_weight) ... ok
+test_asymmetric_bounds_against_enumeration (test_release.ReleaseRegression.test_asymmetric_bounds_against_enumeration) ... ok
+test_extreme_normalization (test_release.ReleaseRegression.test_extreme_normalization) ... ok
+test_js_protocol_key_order (test_release.ReleaseRegression.test_js_protocol_key_order) ... ok
+test_js_rejects_null_coordinate (test_release.ReleaseRegression.test_js_rejects_null_coordinate) ... ok
+test_js_rejects_protocol_mismatch (test_release.ReleaseRegression.test_js_rejects_protocol_mismatch) ... ok
+test_js_rejects_unknown_observed_timing (test_release.ReleaseRegression.test_js_rejects_unknown_observed_timing) ... ok
+test_normalization_invalid_numbers (test_release.ReleaseRegression.test_normalization_invalid_numbers) ... ok
+
+----------------------------------------------------------------------
+Ran 36 tests in 0.366s
+
+OK

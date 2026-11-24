@@ -1,0 +1,282 @@
+[
+  {
+    "coordinates": {
+      "A": 0.05,
+      "B": 0.1,
+      "P": 0.9,
+      "S": 0.1,
+      "Sa": 0.05,
+      "So": 0.15
+    },
+    "data_kind": "synthetic",
+    "protocol": {
+      "aggregation": "none (synthetic)",
+      "assessor_population": "none (synthetic)",
+      "definitions": "ACTF provisional v2",
+      "id": "synthetic-v1",
+      "language": "en/ta",
+      "method": "manually assigned",
+      "scale": {
+        "anchors": "synthetic endpoints",
+        "lower": 0,
+        "upper": 1
+      },
+      "window_s": null
+    },
+    "sample": {
+      "batch": "not applicable (synthetic)",
+      "concentration_description": "not applicable (synthetic)",
+      "id": "Jalapeno pepper",
+      "portion_g": null,
+      "preparation": "not applicable (synthetic)",
+      "temperature_c": null
+    },
+    "schema_version": "2.0",
+    "source": "original ACTF illustrative profiles"
+  },
+  {
+    "coordinates": {
+      "A": 0.18,
+      "B": 0.12,
+      "P": 0.22,
+      "S": 0.7,
+      "Sa": 0.08,
+      "So": 0.05
+    },
+    "data_kind": "synthetic",
+    "protocol": {
+      "aggregation": "none (synthetic)",
+      "assessor_population": "none (synthetic)",
+      "definitions": "ACTF provisional v2",
+      "id": "synthetic-v1",
+      "language": "en/ta",
+      "method": "manually assigned",
+      "scale": {
+        "anchors": "synthetic endpoints",
+        "lower": 0,
+        "upper": 1
+      },
+      "window_s": null
+    },
+    "sample": {
+      "batch": "not applicable (synthetic)",
+      "concentration_description": "not applicable (synthetic)",
+      "id": "Chai tea latte",
+      "portion_g": null,
+      "preparation": "not applicable (synthetic)",
+      "temperature_c": null
+    },
+    "schema_version": "2.0",
+    "source": "original ACTF illustrative profiles"
+  },
+  {
+    "coordinates": {
+      "A": 0.0,
+      "B": 0.02,
+      "P": 0.0,
+      "S": 0.9,
+      "Sa": 0.03,
+      "So": 0.02
+    },
+    "data_kind": "synthetic",
+    "protocol": {
+      "aggregation": "none (synthetic)",
+      "assessor_population": "none (synthetic)",
+      "definitions": "ACTF provisional v2",
+      "id": "synthetic-v1",
+      "language": "en/ta",
+      "method": "manually assigned",
+      "scale": {
+        "anchors": "synthetic endpoints",
+        "lower": 0,
+        "upper": 1
+      },
+      "window_s": null
+    },
+    "sample": {
+      "batch": "not applicable (synthetic)",
+      "concentration_description": "not applicable (synthetic)",
+      "id": "Vanilla ice cream",
+      "portion_g": null,
+      "preparation": "not applicable (synthetic)",
+      "temperature_c": null
+    },
+    "schema_version": "2.0",
+    "source": "original ACTF illustrative profiles"
+  },
+  {
+    "coordinates": {
+      "A": 0.04,
+      "B": 0.08,
+      "P": 0.02,
+      "S": 0.05,
+      "Sa": 0.01,
+      "So": 0.95
+    },
+    "data_kind": "synthetic",
+    "protocol": {
+      "aggregation": "none (synthetic)",
+      "assessor_population": "none (synthetic)",
+      "definitions": "ACTF provisional v2",
+      "id": "synthetic-v1",
+      "language": "en/ta",
+      "method": "manually assigned",
+      "scale": {
+        "anchors": "synthetic endpoints",
+        "lower": 0,
+        "upper": 1
+      },
+      "window_s": null
+    },
+    "sample": {
+      "batch": "not applicable (synthetic)",
+      "concentration_description": "not applicable (synthetic)",
+      "id": "Lemon juice",
+      "portion_g": null,
+      "preparation": "not applicable (synthetic)",
+      "temperature_c": null
+    },
+    "schema_version": "2.0",
+    "source": "original ACTF illustrative profiles"
+  },
+  {
+    "coordinates": {
+      "A": 0.4,
+      "B": 0.75,
+      "P": 0.02,
+      "S": 0.02,
+      "Sa": 0.01,
+      "So": 0.12
+    },
+    "data_kind": "synthetic",
+    "protocol": {
+      "aggregation": "none (synthetic)",
+      "assessor_population": "none (synthetic)",
+      "definitions": "ACTF provisional v2",
+      "id": "synthetic-v1",
+      "language": "en/ta",
+      "method": "manually assigned",
+      "scale": {
+        "anchors": "synthetic endpoints",
+        "lower": 0,
+        "upper": 1
+      },
+      "window_s": null
+    },
+    "sample": {
+      "batch": "not applicable (synthetic)",
+      "concentration_description": "not applicable (synthetic)",
+      "id": "Black coffee",
+      "portion_g": null,
+      "preparation": "not applicable (synthetic)",
+      "temperature_c": null
+    },
+    "schema_version": "2.0",
+    "source": "original ACTF illustrative profiles"
+  },
+  {
+    "coordinates": {
+      "A": 0.7,
+      "B": 0.52,
+      "P": 0.01,
+      "S": 0.02,
+      "Sa": 0.01,
+      "So": 0.08
+    },
+    "data_kind": "synthetic",
+    "protocol": {
+      "aggregation": "none (synthetic)",
+      "assessor_population": "none (synthetic)",
+      "definitions": "ACTF provisional v2",
+      "id": "synthetic-v1",
+      "language": "en/ta",
+      "method": "manually assigned",
+      "scale": {
+        "anchors": "synthetic endpoints",
+        "lower": 0,
+        "upper": 1
+      },
+      "window_s": null
+    },
+    "sample": {
+      "batch": "not applicable (synthetic)",
+      "concentration_description": "not applicable (synthetic)",
+      "id": "Unsweetened black tea",
+      "portion_g": null,
+      "preparation": "not applicable (synthetic)",
+      "temperature_c": null
+    },
+    "schema_version": "2.0",
+    "source": "original ACTF illustrative profiles"
+  },
+  {
+    "coordinates": {
+      "A": 0.03,
+      "B": 0.06,
+      "P": 0.02,
+      "S": 0.05,
+      "Sa": 0.82,
+      "So": 0.02
+    },
+    "data_kind": "synthetic",
+    "protocol": {
+      "aggregation": "none (synthetic)",
+      "assessor_population": "none (synthetic)",
+      "definitions": "ACTF provisional v2",
+      "id": "synthetic-v1",
+      "language": "en/ta",
+      "method": "manually assigned",
+      "scale": {
+        "anchors": "synthetic endpoints",
+        "lower": 0,
+        "upper": 1
+      },
+      "window_s": null
+    },
+    "sample": {
+      "batch": "not applicable (synthetic)",
+      "concentration_description": "not applicable (synthetic)",
+      "id": "Salted potato chips",
+      "portion_g": null,
+      "preparation": "not applicable (synthetic)",
+      "temperature_c": null
+    },
+    "schema_version": "2.0",
+    "source": "original ACTF illustrative profiles"
+  },
+  {
+    "coordinates": {
+      "A": 0.48,
+      "B": 0.7,
+      "P": 0.01,
+      "S": 0.15,
+      "Sa": 0.01,
+      "So": 0.04
+    },
+    "data_kind": "synthetic",
+    "protocol": {
+      "aggregation": "none (synthetic)",
+      "assessor_population": "none (synthetic)",
+      "definitions": "ACTF provisional v2",
+      "id": "synthetic-v1",
+      "language": "en/ta",
+      "method": "manually assigned",
+      "scale": {
+        "anchors": "synthetic endpoints",
+        "lower": 0,
+        "upper": 1
+      },
+      "window_s": null
+    },
+    "sample": {
+      "batch": "not applicable (synthetic)",
+      "concentration_description": "not applicable (synthetic)",
+      "id": "Dark chocolate",
+      "portion_g": null,
+      "preparation": "not applicable (synthetic)",
+      "temperature_c": null
+    },
+    "schema_version": "2.0",
+    "source": "original ACTF illustrative profiles"
+  }
+]

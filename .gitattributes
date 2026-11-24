@@ -1,0 +1,5 @@
+# Preserve published release checksums on all checkout platforms.
+* text eol=lf
+*.csv -text
+*.png binary
+*.jpeg binary

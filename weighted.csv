@@ -1,0 +1,141 @@
+a,b,scheme,Dw
+Jalapeno pepper,Chai tea latte,uniform,0.3765191451528948
+Jalapeno pepper,Chai tea latte,pungency_high,0.5554241622399948
+Jalapeno pepper,Chai tea latte,pungency_low,0.3112523092283815
+Jalapeno pepper,Chai tea latte,astringency_high,0.2771930735065362
+Jalapeno pepper,Chai tea latte,gustatory_high,0.3278833634083925
+Jalapeno pepper,Vanilla ice cream,uniform,0.4960174728105184
+Jalapeno pepper,Vanilla ice cream,pungency_high,0.7343677552834138
+Jalapeno pepper,Vanilla ice cream,pungency_low,0.40875175840600375
+Jalapeno pepper,Vanilla ice cream,astringency_high,0.34553726282414177
+Jalapeno pepper,Vanilla ice cream,gustatory_high,0.4358411407841165
+Jalapeno pepper,Lemon juice,uniform,0.4863126566315131
+Jalapeno pepper,Lemon juice,pungency_high,0.7184761652274904
+Jalapeno pepper,Lemon juice,pungency_low,0.40148972589594367
+Jalapeno pepper,Lemon juice,astringency_high,0.33700445100918175
+Jalapeno pepper,Lemon juice,gustatory_high,0.4286461244429955
+Jalapeno pepper,Black coffee,uniform,0.4705139034431749
+Jalapeno pepper,Black coffee,pungency_high,0.7134087187580482
+Jalapeno pepper,Black coffee,pungency_low,0.37942192872842767
+Jalapeno pepper,Black coffee,astringency_high,0.4122669038377929
+Jalapeno pepper,Black coffee,gustatory_high,0.3767094370997361
+Jalapeno pepper,Unsweetened black tea,uniform,0.4837182375446819
+Jalapeno pepper,Unsweetened black tea,pungency_high,0.7240193367583493
+Jalapeno pepper,Unsweetened black tea,pungency_low,0.394774619244956
+Jalapeno pepper,Unsweetened black tea,astringency_high,0.5762048246934417
+Jalapeno pepper,Unsweetened black tea,gustatory_high,0.32143817445972406
+Jalapeno pepper,Salted potato chips,uniform,0.4810925066969969
+Jalapeno pepper,Salted potato chips,pungency_high,0.7167872766727936
+Jalapeno pepper,Salted potato chips,pungency_low,0.3942549936272209
+Jalapeno pepper,Salted potato chips,astringency_high,0.3336225412048772
+Jalapeno pepper,Salted potato chips,gustatory_high,0.4205561793625199
+Jalapeno pepper,Dark chocolate,uniform,0.47490349896935197
+Jalapeno pepper,Dark chocolate,pungency_high,0.7212128673283638
+Jalapeno pepper,Dark chocolate,pungency_low,0.38237939275018473
+Jalapeno pepper,Dark chocolate,astringency_high,0.4521106059362023
+Jalapeno pepper,Dark chocolate,gustatory_high,0.3653696758079411
+Chai tea latte,Vanilla ice cream,uniform,0.14955489516116371
+Chai tea latte,Vanilla ice cream,pungency_high,0.18948350851723217
+Chai tea latte,Vanilla ice cream,pungency_low,0.13682835963352044
+Chai tea latte,Vanilla ice cream,astringency_high,0.16608431593621356
+Chai tea latte,Vanilla ice cream,gustatory_high,0.12670832648251656
+Chai tea latte,Lemon juice,uniform,0.46522396040330216
+Chai tea latte,Lemon juice,pungency_high,0.353111880287254
+Chai tea latte,Lemon juice,pungency_low,0.4910539685207726
+Chai tea latte,Lemon juice,astringency_high,0.3377573093213528
+Chai tea latte,Lemon juice,gustatory_high,0.5308059909232374
+Chai tea latte,Black coffee,uniform,0.3994788271402294
+Chai tea latte,Black coffee,pungency_high,0.3120897306865447
+Chai tea latte,Black coffee,pungency_low,0.41991070479329295
+Chai tea latte,Black coffee,astringency_high,0.31901097159815683
+Chai tea latte,Black coffee,gustatory_high,0.4471772579190494
+Chai tea latte,Unsweetened black tea,uniform,0.39637944783586676
+Chai tea latte,Unsweetened black tea,pungency_high,0.31360484690131946
+Chai tea latte,Unsweetened black tea,pungency_low,0.41585935122346357
+Chai tea latte,Unsweetened black tea,astringency_high,0.46478382071668545
+Chai tea latte,Unsweetened black tea,gustatory_high,0.3963205773108432
+Chai tea latte,Salted potato chips,uniform,0.41575233011974805
+Chai tea latte,Salted potato chips,pungency_high,0.3221304083752417
+Chai tea latte,Salted potato chips,pungency_low,0.43754885441513836
+Chai tea latte,Salted potato chips,astringency_high,0.3076816536617027
+Chai tea latte,Salted potato chips,gustatory_high,0.47160364714450626
+Chai tea latte,Dark chocolate,uniform,0.36009258068817057
+Chai tea latte,Dark chocolate,pungency_high,0.2918424232355536
+Chai tea latte,Dark chocolate,pungency_low,0.37635887129174994
+Chai tea latte,Dark chocolate,astringency_high,0.3302120530810467
+Chai tea latte,Dark chocolate,gustatory_high,0.3893359731645665
+Vanilla ice cream,Lemon juice,uniform,0.5153316084490321
+Vanilla ice cream,Lemon juice,pungency_high,0.3573233829460367
+Vanilla ice cream,Lemon juice,pungency_low,0.5501727001587775
+Vanilla ice cream,Lemon juice,astringency_high,0.3581954773583832
+Vanilla ice cream,Lemon juice,gustatory_high,0.5984688797255877
+Vanilla ice cream,Black coffee,uniform,0.4963365793491348
+Vanilla ice cream,Black coffee,pungency_high,0.344174374409252
+Vanilla ice cream,Black coffee,pungency_low,0.5298896111455668
+Vanilla ice cream,Black coffee,astringency_high,0.4488295890424338
+Vanilla ice cream,Black coffee,gustatory_high,0.5518174516993822
+Vanilla ice cream,Unsweetened black tea,uniform,0.503073884567002
+Vanilla ice cream,Unsweetened black tea,pungency_high,0.3486144001615539
+Vanilla ice cream,Unsweetened black tea,pungency_low,0.5371228909663038
+Vanilla ice cream,Unsweetened black tea,astringency_high,0.6134166610062038
+Vanilla ice cream,Unsweetened black tea,gustatory_high,0.5058606527493515
+Vanilla ice cream,Salted potato chips,uniform,0.47425379984420435
+Vanilla ice cream,Salted potato chips,pungency_high,0.32888903903900474
+Vanilla ice cream,Salted potato chips,pungency_low,0.5063091940701847
+Vanilla ice cream,Salted potato chips,astringency_high,0.3292840718893035
+Vanilla ice cream,Salted potato chips,gustatory_high,0.550826651497547
+Vanilla ice cream,Dark chocolate,uniform,0.4575660243797245
+Vanilla ice cream,Dark chocolate,pungency_high,0.31709304628137147
+Vanilla ice cream,Dark chocolate,pungency_low,0.48853249636027285
+Vanilla ice cream,Dark chocolate,astringency_high,0.4693655291987259
+Vanilla ice cream,Dark chocolate,gustatory_high,0.4922473971490352
+Lemon juice,Black coffee,uniform,0.45976443243614806
+Lemon juice,Black coffee,pungency_high,0.3185341425969907
+Lemon juice,Black coffee,pungency_low,0.49089408226215153
+Lemon juice,Black coffee,astringency_high,0.4109209169657831
+Lemon juice,Black coffee,gustatory_high,0.5125304868980965
+Lemon juice,Unsweetened black tea,uniform,0.48081527984594385
+Lemon juice,Unsweetened black tea,pungency_high,0.3331966386385073
+Lemon juice,Unsweetened black tea,pungency_low,0.5133566012042701
+Lemon juice,Unsweetened black tea,astringency_high,0.5809302884167772
+Lemon juice,Unsweetened black tea,gustatory_high,0.4856439024635232
+Lemon juice,Salted potato chips,uniform,0.5035705842613658
+Lemon juice,Salted potato chips,pungency_high,0.34888393485513197
+Lemon juice,Salted potato chips,pungency_low,0.537666253357973
+Lemon juice,Salted potato chips,astringency_high,0.3489584502487366
+Lemon juice,Salted potato chips,gustatory_high,0.5850811909470343
+Lemon juice,Dark chocolate,uniform,0.4858326186386967
+Lemon juice,Dark chocolate,pungency_high,0.3366719471533083
+Lemon juice,Dark chocolate,pungency_low,0.5187137939172236
+Lemon juice,Dark chocolate,astringency_high,0.46256675193965247
+Lemon juice,Dark chocolate,gustatory_high,0.5336173722809257
+Black coffee,Unsweetened black tea,uniform,0.1552417469626002
+Black coffee,Unsweetened black tea,pungency_high,0.1077961038256949
+Black coffee,Unsweetened black tea,pungency_low,0.16571059109181885
+Black coffee,Unsweetened black tea,astringency_high,0.24159470192866392
+Black coffee,Unsweetened black tea,gustatory_high,0.12948938180406916
+Black coffee,Salted potato chips,uniform,0.46188021535170054
+Black coffee,Salted potato chips,pungency_high,0.32
+Black coffee,Salted potato chips,pungency_low,0.49315312023751806
+Black coffee,Salted potato chips,astringency_high,0.41663893241030653
+Black coffee,Salted potato chips,gustatory_high,0.5138506592386546
+Black coffee,Dark chocolate,uniform,0.07337120234351713
+Black coffee,Dark chocolate,pungency_high,0.05134199061197374
+Black coffee,Dark chocolate,pungency_low,0.07824960063795852
+Black coffee,Dark chocolate,astringency_high,0.07688953114696431
+Black coffee,Dark chocolate,gustatory_high,0.07829431652425355
+Unsweetened black tea,Salted potato chips,uniform,0.4692547282660026
+Unsweetened black tea,Salted potato chips,pungency_high,0.3251891757116156
+Unsweetened black tea,Salted potato chips,pungency_low,0.5010129738839105
+Unsweetened black tea,Salted potato chips,astringency_high,0.582343541219442
+Unsweetened black tea,Salted potato chips,gustatory_high,0.46764837217721605
+Unsweetened black tea,Dark chocolate,uniform,0.12864680330268605
+Unsweetened black tea,Dark chocolate,pungency_high,0.08912911982062875
+Unsweetened black tea,Dark chocolate,pungency_low,0.13735719857364592
+Unsweetened black tea,Dark chocolate,astringency_high,0.1819670299807083
+Unsweetened black tea,Dark chocolate,gustatory_high,0.11778157750684101
+Salted potato chips,Dark chocolate,uniform,0.46164560722123915
+Salted potato chips,Dark chocolate,pungency_high,0.3199187396824387
+Salted potato chips,Dark chocolate,pungency_low,0.4928884255082482
+Salted potato chips,Dark chocolate,astringency_high,0.4556270404618233
+Salted potato chips,Dark chocolate,gustatory_high,0.5022474489731132

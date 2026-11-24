@@ -1,0 +1,17 @@
+ACTF software release 2.0.1 — local reproducibility check
+Python 3.13.5; NumPy 2.3.5; Matplotlib 3.10.8; jsonschema 4.26.0; Node.js v22.16.0
+All four generation scripts executed successfully twice.
+All 9 numerical/record outputs and 3 generated figures match the original supplement byte for byte and match across both reruns.
+SHA-256 of regenerated files:
+aab9960f4cd5b0558fec5af03f2477351a19d629b2ca66e786b8aba4721f59c5  pairwise.csv
+641bfcd0d0d7a0e7295e6d6c2ab92a16cf3a1cea4685d0c901b51838497c35c3  weighted.csv
+9c34c98736dbd2e0e55818bd7c80ae1c0ce6c2a05a6ea0a43a43616f5a8a5813  noise.csv
+2fadd5f8cc960fa87957a8713b581d0bd01454c9114d56bceb3537bf00c1b5d9  summary.json
+ac71b244300c5e12a3fe64445bb8777842442bbe384ce482706354fc3555f476  records.json
+9da0bc78c88eb6be411e13eb9a02ec52c3c98e0732cb26fc0e3982ec86d6b0c9  masked_pairs.csv
+80f9ed0f3a2a612af757e6aa4cbadf9bb0640d30e772051bd267867ecd965d46  exchange_results.json
+ea462d87fd299747f2a8aacca480cfad63fa87c6ba411ea2b756358825929c95  published_records.json
+8641fcf93dfb21ab30813f2e0c0591d1eb4bf160baa6e8dc8b024a64aa101985  published_bounds.csv
+45c7c15fc8f02173c936a7ea636a4eea7f0cb1d0e4b6abbf64b8b62fc1741bb7  figure2.png
+f972fb12bf802959570cbc36e964ce8a389fdc3997d030b52b9f10349b6bc0af  figure3.png
+5f63a7577b5eb583285469b4904ac14c465f81ed2b42bfbdabef37bd96f3e9f8  figure4.png

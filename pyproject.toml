@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "actf-research"
+version = "2.0.1"
+description = "Arusuvai Computational Taste Framework research prototype"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+readme = "README.md"
+authors = [{name = "Vimal Aditya Raj Varadharaj"}]
+dependencies = ["jsonschema>=4.20,<5"]
+
+[tool.setuptools]
+packages = ["actf"]
+
+[tool.setuptools.package-data]
+actf = ["profile.schema.json"]

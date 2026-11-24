@@ -1,0 +1,23 @@
+{
+  "pair_count": 28,
+  "weighted_count": 140,
+  "min": {
+    "a": "Black coffee",
+    "b": "Dark chocolate",
+    "D2": 0.17972200755611425,
+    "Dn": 0.07337120234351713,
+    "Q": 0.9266287976564829
+  },
+  "max": {
+    "a": "Vanilla ice cream",
+    "b": "Lemon juice",
+    "D2": 1.2622994890278612,
+    "Dn": 0.5153316084490321,
+    "Q": 0.48466839155096786
+  },
+  "environment": {
+    "python": "3.13.5",
+    "numpy": "2.3.5",
+    "matplotlib": "3.10.8"
+  }
+}

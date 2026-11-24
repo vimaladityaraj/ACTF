@@ -1,0 +1,7 @@
+a,b,lower,upper,known,strict_gate
+neutral,salty-savoury,0.187794213613377,0.6071243694664216,4,rejected: unknown window
+neutral,sweet-sour,0.20443236679301197,0.6124752451535701,4,rejected: unknown window
+neutral,sweet,0.1762573875520305,0.6036555309114627,4,rejected: unknown window
+salty-savoury,sweet-sour,0.28196401136262705,0.6425239583369923,4,rejected: unknown window
+salty-savoury,sweet,0.26789992603651536,0.6364775751774007,4,rejected: unknown window
+sweet-sour,sweet,0.15420044674960504,0.5975877434411713,4,rejected: unknown window
