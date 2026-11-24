@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.0.2
+
+- Align accompanying manuscript title and Figure 1 with the final submission.
+- Add repository URL and prior release DOI to documentation.
+- Preserve schema 2.0, computational code, input data and numerical outputs.
+- Retain original execution logs as evidence for 2.0.1; refresh package checksums.
+
 ## 2.0.1
 
 - Compare JSON protocol declarations structurally in JavaScript; preserve array order but ignore object key order. Reject non-synthetic records with unknown timing, consistent with the Python comparison gate.

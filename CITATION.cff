@@ -1,12 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite this release and the accompanying ACTF manuscript when available."
+message: "If you use this software, please cite this release and the accompanying manuscript, Can the Six Traditional Tamil Flavors of Arusuvai Be Represented Computationally? A Six-Dimensional Framework for Food-Related Oral Chemosensation, when available."
 title: "Arusuvai Computational Taste Framework (ACTF): Research Supplement"
 type: software
 authors:
   - given-names: "Vimal Aditya Raj"
     family-names: "Varadharaj"
     orcid: "https://orcid.org/0009-0008-1692-9355"
-version: "2.0.1"
+version: "2.0.2"
+repository-code: "https://github.com/vimaladityaraj/ACTF"
 license: MIT
 keywords:
   - sensory data interoperability
